@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/DigistateBV/rebuild-centos-nagios-plugin-mysql-for-mariadb/commit/a239165a86bac83be1b212d5af287f5bf8811acb\"><strong>a</strong>239165a86bac83be1b212d5af287f5bf8811acb</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/tedvdb/pinnedtabfix/commit/7fc743cecafe17a95bdbc590b6bd1d2414e9177e\">7fc743ce<strong>cafe</strong>17a95bdbc590b6bd1d2414e9177e</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 14 times)\n2. added (used 14 times)\n3. fix (used 9 times)\n4. readme.md (used 7 times)\n5. merge (used 7 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/jellyfin/jellyfin-android/issues/128\">#128</a>: Connection error when connecting to a server running on a subpath",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/home-assistant/core/pull/58917\">#58917</a>: Add long term statistics to buienradar",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/home-assistant/core/pull/58917\">#58917</a>: Add long term statistics to buienradar",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/tedvdb/feddit-status/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tedvdb/stripposter/commit/0a5f93605710335191c975a5ee6b4b65222acf5e\">0a5f936</a>\n- <a href=\"https://github.com/tedvdb/feddit-status/commit/db01b1b15e1322a42e173cb95df3f9e5b628a390\">db01b1b</a>\n- <a href=\"https://github.com/tedvdb/termux-scripts/commit/f9fdc17a0d43f76854ca9ee398f75255ff31b74c\">f9fdc17</a>\n- <a href=\"https://github.com/tedvdb/termux-scripts/commit/0ba7d8d24c58b252491d1b3cf8a45b5786d23c60\">0ba7d8d</a>\n- <a href=\"https://github.com/tedvdb/Addarr/commit/d2a3dd65f8fd7d9cb6ddbc6b4ae85ced7e3b5e83\">d2a3dd6</a>\n- <a href=\"https://github.com/tedvdb/Addarr/commit/78b694934260c8e15de753a3aab3cf5e41395753\">78b6949</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tedvdb/pinnedtabfix/commit/1ba940ee0b266491e62c852fb62d6a4afe13fb39\">1ba940e</a>\n- <a href=\"https://github.com/tedvdb/ebooklib/commit/fb127c5adc3af3086bc2eb8c28147002509f396a\">fb127c5</a>\n- <a href=\"https://github.com/tedvdb/ebooklib/commit/0c779ca1835152f5ef6fd6f899120478889922bf\">0c779ca</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
