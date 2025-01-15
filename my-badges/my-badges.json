@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 14 times)\n2. added (used 14 times)\n3. fix (used 9 times)\n4. readme.md (used 7 times)\n5. merge (used 7 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 14 times)\n2. added (used 14 times)\n3. fix (used 10 times)\n4. initial (used 8 times)\n5. commit (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -63,13 +63,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
   },
   {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
-  },
-  {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
@@ -89,5 +82,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/tedvdb/pinnedtabfix/commit/1ba940ee0b266491e62c852fb62d6a4afe13fb39\">1ba940e</a>\n- <a href=\"https://github.com/tedvdb/ebooklib/commit/fb127c5adc3af3086bc2eb8c28147002509f396a\">fb127c5</a>\n- <a href=\"https://github.com/tedvdb/ebooklib/commit/0c779ca1835152f5ef6fd6f899120478889922bf\">0c779ca</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
   }
 ]
