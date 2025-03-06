@@ -7,8 +7,8 @@ My favorite commit message words are:
 1. update (used 14 times)
 2. added (used 14 times)
 3. fix (used 10 times)
-4. initial (used 8 times)
-5. commit (used 8 times)
+4. add (used 8 times)
+5. initial (used 8 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
