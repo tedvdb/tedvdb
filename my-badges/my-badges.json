@@ -23,8 +23,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 14 times)\n2. added (used 14 times)\n3. fix (used 10 times)\n4. add (used 9 times)\n5. initial (used 8 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 8 times)\n2. initial (used 8 times)\n3. commit (used 8 times)\n4. update (used 8 times)\n5. bump (used 6 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tedvdb/stripposter/commit/0a5f93605710335191c975a5ee6b4b65222acf5e\">0a5f936</a>\n- <a href=\"https://github.com/tedvdb/feddit-status/commit/db01b1b15e1322a42e173cb95df3f9e5b628a390\">db01b1b</a>\n- <a href=\"https://github.com/tedvdb/termux-scripts/commit/f9fdc17a0d43f76854ca9ee398f75255ff31b74c\">f9fdc17</a>\n- <a href=\"https://github.com/tedvdb/termux-scripts/commit/0ba7d8d24c58b252491d1b3cf8a45b5786d23c60\">0ba7d8d</a>\n- <a href=\"https://github.com/tedvdb/Addarr/commit/d2a3dd65f8fd7d9cb6ddbc6b4ae85ced7e3b5e83\">d2a3dd6</a>\n- <a href=\"https://github.com/tedvdb/Addarr/commit/78b694934260c8e15de753a3aab3cf5e41395753\">78b6949</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tedvdb/stripposter/commit/0a5f93605710335191c975a5ee6b4b65222acf5e\">0a5f936</a>\n- <a href=\"https://github.com/tedvdb/feddit-status/commit/db01b1b15e1322a42e173cb95df3f9e5b628a390\">db01b1b</a>\n- <a href=\"https://github.com/tedvdb/termux-scripts/commit/f9fdc17a0d43f76854ca9ee398f75255ff31b74c\">f9fdc17</a>\n- <a href=\"https://github.com/tedvdb/termux-scripts/commit/0ba7d8d24c58b252491d1b3cf8a45b5786d23c60\">0ba7d8d</a>\n- <a href=\"https://github.com/tedvdb/termux-scripts/commit/48d05aa8da20b51de39437cac600ae765132ddd0\">48d05aa</a>\n- <a href=\"https://github.com/tedvdb/termux-scripts/commit/77543830d70e7000910af1e119b6285c21affd5a\">7754383</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
