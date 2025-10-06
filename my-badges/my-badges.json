@@ -52,7 +52,7 @@
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/home-assistant/core/pull/58917\">#58917</a>: Add long term statistics to buienradar",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/home-assistant/core/pull/142724\">#142724</a>: Implement MAC address exclude list in nmap_tracker",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {

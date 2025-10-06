@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/home-assistant/core/pull/58917">#58917</a>: Add long term statistics to buienradar
+- <a href="https://github.com/home-assistant/core/pull/142724">#142724</a>: Implement MAC address exclude list in nmap_tracker
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
