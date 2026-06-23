@@ -4,6 +4,7 @@
 
 I use words like "thanks" and "please" in my issues:
 
+- <a href="https://github.com/awslabs/amazon-app-runner-deploy/issues/63">#63</a>: Update to Node.js 22
 - <a href="https://github.com/jellyfin/jellyfin-android/issues/128">#128</a>: Connection error when connecting to a server running on a subpath
 
 

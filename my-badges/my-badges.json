@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 15 times)\n2. fix (used 12 times)\n3. initial (used 8 times)\n4. commit (used 8 times)\n5. update (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 19 times)\n2. fix (used 13 times)\n3. update (used 11 times)\n4. initial (used 10 times)\n5. commit (used 10 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/jellyfin/jellyfin-android/issues/128\">#128</a>: Connection error when connecting to a server running on a subpath",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/awslabs/amazon-app-runner-deploy/issues/63\">#63</a>: Update to Node.js 22\n- <a href=\"https://github.com/jellyfin/jellyfin-android/issues/128\">#128</a>: Connection error when connecting to a server running on a subpath",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
